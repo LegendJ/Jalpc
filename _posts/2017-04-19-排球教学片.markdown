@@ -15,11 +15,12 @@ icon: icon-html
 
 - [3、**双手正面传球(3:40)**、传球测试、上手发球(13:10)](https://v.youku.com/v_show/id_XNDc3ODUyMTA4.html?&f=18580961&from=y1.2-3.4.27&spm=a2h0j.8191423.item_XNDc3ODUyMTA4.A)
 
-- [对墙初学发球练习](https://www.bilibili.com/video/av9940955/)
+  - [对墙初学发球练习](https://www.bilibili.com/video/av9940955/)
 
 - [4、正面双手垫球(3:05)、准备姿势(18:00)、身体素质训练(不推荐看)](https://v.youku.com/v_show/id_XNDc3ODUyMDYw.html?f=18580961&o=1&spm=a2h1n.8251843.playList.5!26~1!2~3~A)
 
-- 垫球结合食用[垫球基础练习](https://www.bilibili.com/video/av9940727/)，[发垫训练](https://www.bilibili.com/video/av9940760/)
+  - 垫球结合食用[垫球基础练习](https://www.bilibili.com/video/av9940727/)
+  - [发垫训练](https://www.bilibili.com/video/av9940760/)
 
 - [5、**移动步法(4:25)**、正面双手垫球(10:05)、身体素质训练(22:20)](https://v.youku.com/v_show/id_XNDc3ODUyMDU2.html?&f=18580961&from=y1.2-3.4.25&spm=a2h0j.8191423.item_XNDc3ODUyMDU2.A)
 
@@ -39,7 +40,8 @@ icon: icon-html
 
 - [13、飘球技术(2:30)、垫球训练(8:10)、身体素质训练(22:30)](https://v.youku.com/v_show/id_XNDc3ODUxODY4.html?&f=18580961&from=y1.2-3.4.16&spm=a2h0j.8191423.item_XNDc3ODUxODY4.A)
 
-- 飘球结合食用[飘球技术动作](https://www.bilibili.com/video/av9941020/)、[飘球发力要点](https://www.bilibili.com/video/av9941014/)
+  - 飘球结合食用[飘球技术动作](https://www.bilibili.com/video/av9941020/)
+  - [飘球发力要点](https://www.bilibili.com/video/av9941014/)
 
 - 14、背垫技术、发球训练、身体素质训练
 
