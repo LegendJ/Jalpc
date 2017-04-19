@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ./_site
+git add --all
+git commit -m 'upload'
+git push origin master
