@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker-vs-VMWare"
+title: "Docker vs VMWare"
 date: 2017-07-17
 categories: [Ml]
 tags: [docker,vmware]
