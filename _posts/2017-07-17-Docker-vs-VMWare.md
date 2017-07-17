@@ -31,9 +31,9 @@ ESXi是vSphere的核心套件：它是主要的hypervisor（虚拟机监视器�
 当然除了VMware以外，微软的Hyper-V，Citrix XenServer,Oracle的VirtualBox等都是流行的hyperVisor技术。近年来，不少企业开始使用docker作为VMware未来的替代品，可以说docker卷起了虚拟化技术的一股新浪潮。
 
 ### Docker
-Docker项目的主要目的，是为了让开发者能够透过容器，更简单的创建，部署以及运行应用。显然，对于DevOps（开发运维人员）和CI/CD initiatives来说，应用的可移植性和一致性是至关重要的，而这一点docker做的相当棒。容器可以将一个应用和所有该应用所需的库，依赖文件，资源封装在一起，从而实现简单的部署。通过使用Linux内核特征如namespacing和control groups来在操作系统层之上创建容器，这样应用部署从开发到生产就可以实现自动化和流水化。   
-<img src="{{ site.img_path }}/docker/docker-lxc.png" align="middle">  
-在docker 0.9版本之后，Docker使用Go语言实现的libcontainer库替换了LXC，允许不同的供应商提供更广泛的原生支持。除此以外，Docker现在提供Windows的原生支持，实现windows开发环境上的docker管理。  
+Docker项目的主要目的，是为了让开发者能够透过容器，更简单的创建，部署以及运行应用。显然，对于DevOps（开发运维人员）和CI/CD initiatives来说，应用的可移植性和一致性是至关重要的，而这一点docker做的相当棒。容器可以将一个应用和所有该应用所需的库，依赖文件，资源封装在一起，从而实现简单的部署。通过使用Linux内核特征如namespacing和control groups来在操作系统层之上创建容器，这样应用部署从开发到生产就可以实现自动化和流水化。  
+​			<img src="{{ site.img_path }}/docker/docker-lxc.png" align="middle">  
+</br>在docker 0.9版本之后，Docker使用Go语言实现的libcontainer库替换了LXC，允许不同的供应商提供更广泛的原生支持。除此以外，Docker现在提供Windows的原生支持，实现windows开发环境上的docker管理。  
 Docker为开发者和运营商提供了以下的好处：
 
 - **部署快捷**：Docker容器封装了运行一个应用程序需求的最小资源，从而可以快捷，轻量的部署。
